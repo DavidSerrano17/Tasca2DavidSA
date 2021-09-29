@@ -10,13 +10,13 @@ body {
 img {
   float: left;
   width: 180px;
-  height: 100px;
+  height: 110px;
   padding: 10px;
 }
 
 .article {
   height: 135px;
-  width: 300px;
+  width: 350px;
 }
 
 p {
